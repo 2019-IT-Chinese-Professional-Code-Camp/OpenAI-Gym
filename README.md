@@ -3,4 +3,4 @@
  
  https://gym.openai.com/
  
- https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2
+ https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
